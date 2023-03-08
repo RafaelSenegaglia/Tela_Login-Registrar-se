@@ -1,4 +1,4 @@
-## Projeto de tela de login/registrar-se responsiva.
+## Projeto de tela de login/registrar-se responsiva...
 
 * <h3> Tecnologia utilizada: </h3>
 
